@@ -360,5 +360,6 @@ This project demonstrates:
 ---
 
 **Built with ❤️ for Cybersecurity**
-#   T h e - E n h a n c e d - N I D S - v 3 . 0 - p r o j e c t - i s - n o w - c l e a n - a n d - o r g a n i z e d -  
+#   T h e - E n h a n c e d - N I D S - v 3 . 0 - p r o j e c t - i s - n o w - c l e a n - a n d - o r g a n i z e d - 
+ 
  
