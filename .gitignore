@@ -1,0 +1,145 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# Environment Variables
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+
+# Logs
+*.log
+logs/*.log
+*.log.*
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+nids_*.db
+test_*.db
+*_test.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+*.whl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Package Management
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+nosetests.xml
+test-results/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Model files (optional - uncomment if you want to ignore trained models)
+# *.h5
+# *.pkl
+# *.joblib
+# *.pt
+# *.pth
+
+# Data files (optional - uncomment if you want to ignore large datasets)
+# *.csv
+# *.json.gz
+# datasets/*.txt.gz
+
+# Keep datasets directory but ignore specific files if needed
+# datasets/temp_*
+# datasets/test_*
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Kubernetes
+secrets.yaml
+*.secret.yaml
+
+# Local configuration
+config.local.json
+settings.local.py
+
+# Compiled translations
+*.mo
+
+# Backup files
+*.backup
+*.orig
+
+# Cache
+.cache/
+*.cache
+
+# Profiling
+*.prof
+*.lprof
